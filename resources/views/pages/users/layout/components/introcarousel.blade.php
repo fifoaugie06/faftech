@@ -9,7 +9,7 @@
                  style="background-image: url({{asset('template/assets/img/intro-carousel/1.jpg')}})">
                 <div class="carousel-container">
                     <div class="container">
-                        <h2 class="animate__animated animate__fadeInDown">Jasa Pembuatan Website dan Aplikasi</h2>
+                        <h2 class="animate__animated animate__fadeInDown">Jasa Pembuatan Website <br>dan <br>Aplikasi Mobile</h2>
                         <p class="animate__animated animate__fadeInUp">Kami memberikan kemudahan dan berbagai macam
                             pilihan dalam bidang pengembangan Rekayasa Perangkat Lunak agar bisnis anda dapat
                             berjalan dengan lancar dimasa yang akan datang.
