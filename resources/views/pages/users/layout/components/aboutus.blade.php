@@ -7,9 +7,9 @@
             aliquip ex ea commodo consequat.</p>
     </header>
 
-    <div class="row about-cols">
+    <div class="row about-cols d-flex">
 
-        <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
+        <div class="col-md-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="about-col">
                 <div class="img">
                     <img src="{{asset('template/assets/img/about-mission.jpg')}}" alt="" class="img-fluid">
@@ -24,7 +24,7 @@
             </div>
         </div>
 
-        <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
+        <div class="col-md-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="about-col">
                 <div class="img">
                     <img src="{{asset('template/assets/img/about-plan.jpg')}}" alt="" class="img-fluid">
@@ -39,7 +39,7 @@
             </div>
         </div>
 
-        <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">
+        <div class="col-md-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="about-col">
                 <div class="img">
                     <img src="{{asset('template/assets/img/about-vision.jpg')}}" alt="" class="img-fluid">

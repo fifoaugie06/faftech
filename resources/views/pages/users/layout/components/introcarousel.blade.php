@@ -1,5 +1,3 @@
-
-
 <div class="intro-container">
     <div id="introCarousel" class="carousel  slide carousel-fade" data-ride="carousel">
 
@@ -11,26 +9,11 @@
                  style="background-image: url({{asset('template/assets/img/intro-carousel/1.jpg')}})">
                 <div class="carousel-container">
                     <div class="container">
-                        <h2 class="animate__animated animate__fadeInDown">We are professional</h2>
-                        <p class="animate__animated animate__fadeInUp">Lorem ipsum dolor sit amet, consectetur
-                            adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                            enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                            commodo consequat.</p>
-                        <a href="#call-to-action"
-                           class="btn-get-started scrollto animate__animated animate__fadeInUp">Contact Now</a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="carousel-item"
-                 style="background-image: url({{asset('template/assets/img/intro-carousel/2.jpg')}})">
-                <div class="carousel-container">
-                    <div class="container">
-                        <h2 class="animate__animated animate__fadeInDown">At vero eos et accusamus</h2>
-                        <p class="animate__animated animate__fadeInUp">Nam libero tempore, cum soluta nobis est
-                            eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus,
-                            omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut
-                            officiis debitis aut.</p>
+                        <h2 class="animate__animated animate__fadeInDown">Jasa Pembuatan Website dan Aplikasi</h2>
+                        <p class="animate__animated animate__fadeInUp">Kami memberikan kemudahan dan berbagai macam
+                            pilihan dalam bidang pengembangan Rekayasa Perangkat Lunak agar bisnis anda dapat
+                            berjalan dengan lancar dimasa yang akan datang.
+                        </p>
                         <a href="#call-to-action"
                            class="btn-get-started scrollto animate__animated animate__fadeInUp">Contact Now</a>
                     </div>
@@ -41,15 +24,45 @@
                  style="background-image: url({{asset('template/assets/img/intro-carousel/3.jpg')}})">
                 <div class="carousel-container">
                     <div class="container">
-                        <h2 class="animate__animated animate__fadeInDown">Temporibus autem quibusdam</h2>
-                        <p class="animate__animated animate__fadeInUp">Beatae vitae dicta sunt explicabo. Nemo enim
-                            ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
-                            magni dolores eos qui ratione voluptatem sequi nesciunt omnis iste natus error sit
-                            voluptatem accusantium.</p>
+                        <h2 class="animate__animated animate__fadeInDown">Masalah dengan Program?</h2>
+                        <p class="animate__animated animate__fadeInUp">Program yang sudah dibayarkan secara lunas tetap
+                            mendapat Garansi Debugging ketika di lain hari ditemukannya Error atau Celah Keamanan.
+                            <br><span class="h6" style="font-size: 14px">*Syarat dan Ketentuan Berlaku</span></p>
                         <a href="#call-to-action"
                            class="btn-get-started scrollto animate__animated animate__fadeInUp">Contact Now</a>
                     </div>
                 </div>
+            </div>
+
+            <div class="carousel-item"
+                 style="background-image: url({{asset('template/assets/img/intro-carousel/4.jpg')}})">
+                <div class="carousel-container">
+                    <div class="container">
+                        <h2 class="animate__animated animate__fadeInDown">Free Hosting</h2>
+                        <p class="animate__animated animate__fadeInUp">Semua program yang kami buat dan memerlukan Hosting
+                            akan mendapatkan Free Shared Hosting selama 1 Bulan dengan Subdomain faftech.my.id.
+                            Serta Data Center yang berada di Jakarta, Indonesia</p>
+                        <a href="#call-to-action"
+                           class="btn-get-started scrollto animate__animated animate__fadeInUp">Contact Now</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="carousel-item"
+                 style="background-image: url({{asset('template/assets/img/intro-carousel/2.jpg')}})">
+                <div class="carousel-container">
+                    <div class="container">
+                        <h2 class="animate__animated animate__fadeInDown">Bayar Lunas Setelah Selesai</h2>
+                        <p class="animate__animated animate__fadeInUp">
+                            Demi meningkatkan kepercayaan antara pembeli dan developer, Pembayaran secara lunas dapat
+                            dilakukan ketika pesanan sudah mencapai kesepakatan akhir.
+                            <br><span class="h6" style="font-size: 14px">*Syarat dan Ketentuan Berlaku</span>
+                        </p>
+                        <a href="#call-to-action"
+                           class="btn-get-started scrollto animate__animated animate__fadeInUp">Contact Now</a>
+                    </div>
+                </div>
+            </div>
             </div>
 
         </div>

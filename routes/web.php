@@ -13,6 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::prefix('/')->namespace('Users')->group(function (){
-    Route::get('', 'LandingPageController@index');
+Route::prefix('/')->namespace('Users')->group(function () {
+    Route::get('', 'LandingPageController@index')->name('users_landing_page_index');
+    Route::get('/portfolio/{id}', 'LandingPageController@detail')->name('users_landing_page_portfolio_detail');
 });
